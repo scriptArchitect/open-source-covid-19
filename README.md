@@ -1,4 +1,4 @@
-# Recopilación de material Open Source SARS-CoV-2 (COVID-19)
+# Material Open Source SARS-CoV-2 (COVID-19)
 
 
 ## Viceras
