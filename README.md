@@ -18,5 +18,3 @@ Modelo de Norte América de 6 orificios ([https://github.com/Cederb/Faceshield.n
 
 * [Fabricación casera](https://vr3d360.org/covid-19-english/ "Cubre bocas fabricación casera") ([VR3D360](https://vr3d360.org))
 
-
-
