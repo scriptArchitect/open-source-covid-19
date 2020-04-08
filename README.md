@@ -12,7 +12,7 @@ Modelo de Norte América de 6 orificios ([https://github.com/Cederb/Faceshield.n
 
 ## Mascarillas
 
-* [Fabricación casera](https://www.facebook.com/voluntariosmx/videos/175479606795484/ "Mascarilla fabricación casera") ([Voluntarios México](https://voluntariosmexico.org))
+* [Fabricación casera](https://www.youtube.com/watch?v=cjdZz51IpYg "Mascarilla fabricación casera") ([Voluntarios México](https://voluntariosmexico.org))
 
 ## Cubre bocas
 
